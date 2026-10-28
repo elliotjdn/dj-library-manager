@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: dj-library-manager
+Version: 0.1.0
+Summary: A Python tool for managing and editing a DJ music library.
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+
+# dj-library-manager
+A Python tool for cleaning, editing and organising DJ music libraries.
